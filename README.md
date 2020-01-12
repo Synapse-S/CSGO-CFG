@@ -2,7 +2,7 @@
 
 Salut! Numele meu este `Synapse.` si vreau sa va ajut prin a va oferi CFG-ul meu!
 
-    configuratia meu de CS:GO realizata in 4 ani de joc, ajungand la o aproximativa perfectiune
+    configuratia mea de CS:GO realizata in 4 ani de joc, ajungand la o aproximativa perfectiune
 
 Orice om care a jucat destul de mult timp CS isi doreste multe fps-uri si grafica care sa nu afecteze gameplay-ul!
 
@@ -21,3 +21,6 @@ Dupa aceea trebuie sa configuram `launch options`-urile:
 
 # 2
 ![2](https://i.imgur.com/qywWotp.png)
+
+# 3
+Da copy - paste la setarile astea `-console -high -tickrate 128 -novid -nojoy +mat_queue_mode 2`
