@@ -1,3 +1,4 @@
+![welcome](https://i.imgur.com/OqsBnFg.png)
 # Bine ai venit! - Synapse.`CFG`
 
 Salut! Numele meu este `Synapse.` si vreau sa va ajut prin a va oferi CFG-ul meu!
