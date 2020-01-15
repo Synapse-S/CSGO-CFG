@@ -18,10 +18,10 @@ Pune toate fisierele cu extensia `.cfg` in folderul `Steam\steamapps\common\Coun
 
 Dupa aceea trebuie sa configuram `launch options`-urile:
 # 1
-![1](https://i.imgur.com/XGvomVi.png)
+![1](https://i.imgur.com/tRQ7BQS.png)
 
 # 2
-![2](https://i.imgur.com/qywWotp.png)
+![2](https://i.imgur.com/fJqgCcQ.png)
 
 # 3
-Da copy - paste la setarile astea `-console -high -tickrate 128 -novid -nojoy +mat_queue_mode 2`
+Da copy - paste la setarile acestea `-console -high -tickrate 128 -novid -nojoy +mat_queue_mode 2`
