@@ -17,11 +17,8 @@ Orice om care a jucat destul de mult timp CS isi doreste multe fps-uri si grafic
 Pune toate fisierele cu extensia `.cfg` in folderul `Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`
 
 Dupa aceea trebuie sa configuram `launch options`-urile:
-# 1
 ![1](https://i.imgur.com/tRQ7BQS.png)
 
-# 2
 ![2](https://i.imgur.com/fJqgCcQ.png)
 
-# 3
 Da copy - paste la setarile acestea `-console -high -tickrate 128 -novid -nojoy +mat_queue_mode 2`
